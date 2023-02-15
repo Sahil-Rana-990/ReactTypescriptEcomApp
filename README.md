@@ -1,5 +1,5 @@
 # Demo
-[Website Demo URL](https://react-typescript-ecom.netlify.app/)
+ Website Demo URL:- [Website Demo URL](https://react-typescript-ecom.netlify.app/](https://react-typescript-ecom.netlify.app/)
 
 # Getting Started with Create React App
 
